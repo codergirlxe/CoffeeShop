@@ -1,0 +1,85 @@
+h1 {
+    margin: 0;
+
+}
+
+header {
+    /* background-image: url('../Coffee\ cup\ backgr.jpg'); */
+    background-color: #FFE0B5;
+    background-size: cover;
+    background-position: center top;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+header img {
+    height: 10%;
+    border-radius: 50%;
+    position:absolute; right:10%; top: 10%;
+}
+
+/* .container {
+    text-align: right;
+} */
+
+nav {
+    background-color: #D8AE7E;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.links {
+    text-align:right;
+}
+
+main img {
+    height: 100%;
+    width: 20%;
+    border: 5px solid black;
+}
+
+main div {
+    text-align: center;
+    padding: 1rem;
+}
+
+button {
+    color: black;
+}
+
+span {
+    color: black;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    filter: invert(1);
+}
+
+.carousel-inner h3 {
+    color: black;
+}
+
+.modal-header {
+    background-color: #D8AE7E;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+  }
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }

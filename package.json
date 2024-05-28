@@ -1,7 +1,8 @@
 {
   "name": "coffeeshop",
   "version": "1.0.0",
-  "description": "",
+  "description": "source",
+  "source": "index.html",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
